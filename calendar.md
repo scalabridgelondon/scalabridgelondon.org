@@ -11,7 +11,7 @@ We're currently planning events for the following dates.
 - Off season dates: one of Aug 21, 22, 23, 27, 28, 29, and 30, with a preference for Tuesday
 - On season dates:
   - Sept 9th or 10th
-  - Sept 16th or 17th
+  - Sept 17th: ITV
   - Sept 24th: Expedia
   - Sept 30th or Oct 1st
   - Oct 7th or 8th
