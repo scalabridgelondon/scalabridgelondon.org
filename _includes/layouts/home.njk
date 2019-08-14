@@ -1,0 +1,20 @@
+---
+---
+{% extends "layouts/base.njk" %}
+
+{% block bannerClass %}hero{% endblock %}
+
+{% block hero %}
+    {% import "hero.njk" as hero %}
+    {% if button %}
+    {{ hero.hero(title, lead, button) }}
+    {% else %}
+    {{ hero.hero(title, lead) }}
+    {% endif %}
+{% endblock %}
+
+{% block content %}
+<main{% if templateClass %} class="{{ templateClass }}"{% endif %}>
+    {{ content | safe }}
+</main>
+{% endblock %}

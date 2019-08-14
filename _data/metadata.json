@@ -1,0 +1,16 @@
+{
+  "title": "ScalaBridge London",
+  "url": "https://scalabridgelondon.org/",
+  "description": "Learn Scala together in London",
+  "feed": {
+    "subtitle": "Learn Scala Together in London",
+    "filename": "feed.xml",
+    "path": "/feed/feed.xml",
+    "url": "https://scalabridgelondon.org/feed/feed.xml",
+    "id": "https://scalabridgelondon.org/"
+  },
+  "author": {
+    "name": "The ScalaBridge London Team",
+    "email": "scalabridgelondon@gmail.com"
+  }
+}

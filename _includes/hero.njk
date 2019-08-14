@@ -1,0 +1,19 @@
+{% macro hero(title, lead, button=false) %}
+<div class="hero">
+  <div class="container">
+    <div class="row">
+      <div class="col-sm pb-4">
+        <div class="pt-4 pb-4">
+          <div class="pt-4 pb-4">
+            <h1 class="display-5">{{ title }}</h1>
+            <p class="lead">{{  lead }}</p>
+            {% if button %}
+            <p><a class="btn-hero btn btn-primary btn-lg shadow" href="/students">Find out more</a></p>
+            {% endif %}
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+</div>
+{% endmacro %}

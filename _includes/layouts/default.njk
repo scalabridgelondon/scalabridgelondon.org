@@ -1,0 +1,25 @@
+---
+---
+{% extends "layouts/base.njk" %}
+
+{% block hero %}
+  <div class="container">
+    <div class="row">
+      <div class="col-sm">
+        <div class="pt-3 pb-3">
+          <h1 class="display-5">{{ title }}</h1>
+        </div>
+      </div>
+    </div>
+  </div>
+{% endblock %}
+
+{% block content %}
+<main{% if templateClass %} class="{{ templateClass }}"{% endif %}>
+  <div class="container mt-4">
+    <div class="row pt-4 pb-4">
+      <div class="col-sm">{{ content | safe }}</div>
+    </div>
+  </div>
+</main>
+{% endblock %}

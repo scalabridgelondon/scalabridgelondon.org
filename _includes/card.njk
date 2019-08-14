@@ -1,0 +1,9 @@
+{% macro card(title, body, ref, label) %}
+<div class="card service-card shadow">
+    <div class="card-body">
+      <h5 class="card-title secondary-font">{{ title }}</h5>
+      <p class="card-text">{{ body }}</p>
+      <p><a class="btn btn-primary" href="{{ ref }}">{{ label }}</a></p>
+   </div>
+</div>
+{% endmacro %}
