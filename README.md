@@ -1,4 +1,4 @@
-# Inner Product Website
+# ScalaBridge London Website
 
 Simple static site build with the [Eleventy](https://github.com/11ty/eleventy) static site generator.
 
