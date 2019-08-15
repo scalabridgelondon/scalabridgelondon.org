@@ -4,11 +4,13 @@ title: Hosts
 ---
 Hosts provide the venues where we hold ScalaBridge London events. Our typical hosts are companies using Scala located in central London. Here we have collected information for potential hosts.
 
-## What Hosts Provide
+## What We Ask For From Hosts
 
 - We need space for 30 to 60 attendees. Attendence will towards the higher end at the start of a [season](/seasons), so if your space is smaller consider hosting towards the end of a season.
 - Hosts usually, but not always, provide food. A range of options, particularly vegetarian and gluten-free, is appreciated.
 - We need WiFi, power outlets, and somewhere to sit. The desk arrangement is not important, but small groups is ideal if possible.
+- We usually run 6-9pm.
+- As we work in small groups it is not essential that everyone is seated in the same room.
 
 
 ## What Hosts Receive
