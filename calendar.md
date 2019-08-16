@@ -9,7 +9,7 @@ The calendar lists events we're planning, and serves as a record of events we've
 We're currently planning events for the following dates.
 
 - Off season dates: 
-  - Aug 27: Quantexa
+  - Aug 27: [Quantexa][quantexa], 10 York Road, SE1 7ND
 - On season dates:
   - Sept 9th or 10th
   - Sept 17th: ITV
@@ -29,3 +29,5 @@ The first ever ScalaBridge season ran on the following dates and locations:
 * 2 May: ITV
 * 16 May: Depop
 * 30 May: The Guardian
+
+[quantexa]: https://www.quantexa.com/
