@@ -8,7 +8,8 @@ The calendar lists events we're planning, and serves as a record of events we've
 
 We're currently planning events for the following dates.
 
-- Off season dates: one of Aug 21, 22, 23, 27, 28, 29, and 30, with a preference for Tuesday
+- Off season dates: 
+  - Aug 27: Quantexa
 - On season dates:
   - Sept 9th or 10th
   - Sept 17th: ITV
