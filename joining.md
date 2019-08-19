@@ -6,7 +6,7 @@ title: Joining
 So you want to join ScalaBridge? That's great! Here's what you should do to make sure you hear about everything that's going on:
 
 * Join the [ScalaBridge meetup group][meetup], which is where we announce upcoming events.
-* Join the [ScalaBridge slack][slack], which is where we chat. (If this link has expired please email {% email %} and we'll create a new one.)
+* Join the [ScalaBridge slack][slack], and the `#london` channel in that Slack, which is where we chat. (If this link has expired please email {% email %} and we'll create a new one.)
 * Fill out [this form][student-form] if you're a student, or [this form][mentor-form] if you're a mentor, so we know a bit about your background and can plan accordingly.
 
 
