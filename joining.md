@@ -16,7 +16,7 @@ Things to be aware of:
 * All ScalaBridge events are covered by our [code of conduct][coc].
 
 [slack]: https://scalabridge.slack.com/join/shared_invite/enQtNjI1MDA2MTExNTUyLTQ0ZGU5N2Q2MTI5NjE0MDIzYmMxYzU0ODE3MjkzY2M4Y2RmNTBjYjkyYzQ1ZGViZDk3ODAyZDc0ZGU5YWRjNDc
-[student-form]: https://docs.google.com/forms/d/e/1FAIpQLSc_uY6sGQxQ9HVwhMgQxef_dPULCtEY1BsjEOmpwmrBH45O2g/viewform
+[student-form]: https://docs.google.com/forms/d/e/1FAIpQLSe-1thDrpDMvHttzbZ1lEetDP4lkvf025wJCkxT9jyoJDNBuw/viewform
 [mentor-form]: https://docs.google.com/forms/d/e/1FAIpQLScOaEfBrpxKDvsoGxjIM9RPDiTPtyJEb-DDZ4UItX22vDx7JA/viewform
 [meetup]: https://www.meetup.com/ScalaBridge-London/
 [coc]: https://scalabridge.org/code-of-conduct
