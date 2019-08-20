@@ -15,7 +15,7 @@ We're currently planning events for the following dates.
   - Sept 17th: ITV
   - Sept 24th: Expedia
   - Sept 30th or Oct 1st
-  - Oct 7th or 8th
+  - Oct 7th: Mystery Host
   - Oct 14th or 15th
 
 
