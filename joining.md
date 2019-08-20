@@ -15,7 +15,7 @@ Things to be aware of:
 * ScalaBridge's goal is to increase diversity within the Scala community. We're looking for students from groups, however defined, that are underrepresented within the community.
 * All ScalaBridge events are covered by our [code of conduct][coc].
 
-[slack]: https://scalabridge.slack.com/join/shared_invite/enQtNjI1MDA2MTExNTUyLTQ0ZGU5N2Q2MTI5NjE0MDIzYmMxYzU0ODE3MjkzY2M4Y2RmNTBjYjkyYzQ1ZGViZDk3ODAyZDc0ZGU5YWRjNDc
+[slack]: https://join.slack.com/t/scalabridge/shared_invite/enQtNzM0MjY4NjIzMzY2LWVkNTFmZjQ1MTk3YmFjNDY2ODA0YjFhYzgzNDYxMmQ1Mzc4NjlmZDUwMWY1ZmQ1YjNiM2YzM2ViM2MyMDUzZjI
 [student-form]: https://docs.google.com/forms/d/e/1FAIpQLSe-1thDrpDMvHttzbZ1lEetDP4lkvf025wJCkxT9jyoJDNBuw/viewform
 [mentor-form]: https://docs.google.com/forms/d/e/1FAIpQLScOaEfBrpxKDvsoGxjIM9RPDiTPtyJEb-DDZ4UItX22vDx7JA/viewform
 [meetup]: https://www.meetup.com/ScalaBridge-London/
