@@ -11,7 +11,7 @@ We're currently planning events for the following dates.
 - Off season dates: 
   - Aug 27: [Quantexa][quantexa], 10 York Road, SE1 7ND
 - On season dates:
-  - Sept 9th or 10th
+  - Sept 9th or 10th: Unruly Media
   - Sept 17th: ITV
   - Sept 24th: Expedia
   - Sept 30th or Oct 1st
