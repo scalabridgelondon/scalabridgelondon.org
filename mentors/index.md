@@ -10,7 +10,7 @@ On this page we answer some common questions about ScalaBridge, and link off to 
 
 ## Overview
 
-Our main activity is small group teaching. This means learning Scala in a small group consisting of a few students of roughly the same level and a mentor. If possible we'll keep the groups together, but this won't always happen. You job as the mentor is guide the students, give them feedback, but don't do the work for them! More on how to teach is on the [pedagogy](/pedagogy) page.
+Our main activity is small group teaching. This means learning Scala in a small group consisting of a few students of roughly the same level and a mentor. If possible we'll keep the groups together, but this won't always happen. You job as the mentor is guide the students, give them feedback, but don't do the work for them! More on how to teach is on the [pedagogy][pedagogy] page.
 
 
 ## Software
@@ -23,16 +23,20 @@ Students need a development environment to use Scala, and you will probably need
 Once they have a development environment they can download or clone the [Creative Scala template](https://github.com/creativescala/creative-scala-template) to get a simple Scala project (with some reasonably appealing output). They may need to install the [JDK](https://jdk.java.net/java-se-ri/8) as well, if their computer doesn't already have it installed.
 
 
-## Curriculum
-
-What the students will be learning depends on their current level of knowledge. This is discussed on the [curriculum](/curriculum) page.
-
-
 ## Attendance
 
 It isn't necessary for mentors to attend every session. Life (and even holidays) happen. It's fine.
+
+
+## More 
+
+* What the students will be learning depends on their current level of knowledge. This is discussed on the [curriculum](/curriculum) page.
+* We have specific guidance on how we teach on the [pedagogy][pedagogy] page.
+
+
 
 [vscode]: https://code.visualstudio.com/
 [intellij]: https://github.com/JetBrains/intellij-scala-bundle
 [metals]: https://marketplace.visualstudio.com/items?itemName=scalameta.metals
 [scala-syntax]: https://marketplace.visualstudio.com/items?itemName=scala-lang.scala
+[pedagogy]: /mentors/pedagogy
