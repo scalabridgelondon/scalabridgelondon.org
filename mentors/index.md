@@ -17,8 +17,8 @@ Our main activity is small group teaching. This means learning Scala in a small 
 
 Students need a development environment to use Scala, and you will probably need to help them use it. Here is what we recommend:
 
-* if the student already has something set up, or they are comfortable in a particular tool in another language, keep using that; otherwise
-* use [Visual Studio Code][vscode] or [IntelliJ][intellij], depending on which you feel best able to support. Note that low spec laptops struggle with IntelliJ; VS Code is a better option here. Make sure you install the [Scala bundle][intellij]. If using Visual Studio Code install [Metals][metals] and the [Scala syntax][scala-syntax].
+* if the student already has something set up, or they are comfortable with a particular tool in another language, keep using that; otherwise
+* use [Visual Studio Code][vscode] or [IntelliJ][intellij], depending on which you feel best able to support. Note that low spec laptops struggle with IntelliJ; VS Code is a better option here. If using IntelliJ use the [Scala bundle][intellij] installer to get everything needed for Scala development. If using Visual Studio Code install [Metals][metals] and the [Scala syntax][scala-syntax].
 
 
 ## Curriculum
