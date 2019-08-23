@@ -11,11 +11,11 @@ We're currently planning events for the following dates.
 - Off season dates: 
   - Aug 27: [Quantexa][quantexa], 10 York Road, SE1 7ND
 - On season dates:
-  - Sept 9th or 10th: Unruly Media
+  - Sept 9th: [Unruly Media](https://www.meetup.com/ScalaBridge-London/events/264245760/)
   - Sept 17th: ITV
   - Sept 24th: Expedia
   - Sept 30th or Oct 1st
-  - Oct 7th: Mystery Host
+  - Oct 7th: Twitter UK
   - Oct 15th: Medidata
 
 
