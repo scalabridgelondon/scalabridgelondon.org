@@ -14,9 +14,16 @@ We recognise that the community aspects of ScalaBridge are just as important as 
 
 Many of you will be looking for a job. Our events are hosted by companies that use Scala, and the majority of them are actively hiring. The mentors will also be happy to make introductions for you to other employers. You don't have to be looking for a job to join ScalaBridge, though.
 
+
 ## What You'll Need
 
 The main thing you'll need is a laptop on which we can install Scala and development tools. We'll help you do this. Our events are held around central London. You'll need to be able to make your own way to the events.
+
+
+## What We Do
+
+Our main activity is small-group teaching. This means learning Scala in a small group consisting of a few students of roughly the same level as yourself and a mentor, who is an experienced developer. There is more to programming than code, and it is certainly more fun to learn together, so we include time for socialising at each session. We divide our year into [seasons](/seasons) which means we alternate between intensive periods of study and more relaxed events.
+
 
 
 ## If It Doesn't Work Out
