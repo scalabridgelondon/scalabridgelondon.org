@@ -30,7 +30,7 @@ It isn't necessary for mentors to attend every session. Life (and even holidays)
 
 ## More 
 
-* What the students will be learning depends on their current level of knowledge. This is discussed on the [curriculum](/curriculum) page.
+* What the students will be learning depends on their current level of knowledge. This is discussed on the [curriculum][curriculum] page.
 * We have specific guidance on how we teach on the [pedagogy][pedagogy] page.
 
 
@@ -40,3 +40,4 @@ It isn't necessary for mentors to attend every session. Life (and even holidays)
 [metals]: https://marketplace.visualstudio.com/items?itemName=scalameta.metals
 [scala-syntax]: https://marketplace.visualstudio.com/items?itemName=scala-lang.scala
 [pedagogy]: /mentors/pedagogy
+[curriculum]: /mentors/curriculum
