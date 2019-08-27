@@ -9,10 +9,10 @@ The calendar lists events we're planning, and serves as a record of events we've
 We're currently planning events for the following dates.
 
 - Off season dates: 
-  - Aug 27: [Quantexa][quantexa], 10 York Road, SE1 7ND
+  - Aug 27: [Quantexa](https://www.meetup.com/ScalaBridge-London/events/264124441/)
 - On season dates:
   - Sept 9th: [Unruly Media](https://www.meetup.com/ScalaBridge-London/events/264245760/)
-  - Sept 17th: ITV
+  - Sept 17th: [ITV](https://www.meetup.com/ScalaBridge-London/events/264336332/)
   - Sept 24th: Expedia
   - Sept 30th or Oct 1st
   - Oct 7th: Twitter UK
