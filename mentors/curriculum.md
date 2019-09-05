@@ -12,33 +12,19 @@ We have three streams:
 
 ## Beginner Stream
 
-The beginner stream will mostly work with [Creative Scala][creative-scala]. We'll learn programming by creating pleasing pictures.
+The beginner stream will mostly work with [Creative Scala][creative-scala]. We'll learn programming by creating pleasing pictures. The six week curriculum is:
 
-1. Expressions, types, and values
-   - Reading: Chapter 2 of Creative Scala
-2. Writing code within a file
-   - Reading: Chapter 4 of Creative Scala
-3. Names and substitution
-   - Reading: Chapter 5 of Creative Scala
-4. Art: computing with images
-   - Reading: Chapter 3 of Creative Scala
-5. Methods
-   - Reading: Chapter 6 of Creative Scala
-6. Structural recursion over the natural numbers
-   - Reading: Chapter 7 of Creative Scala
-7. Art: structure in recursion
-8. Functions
-   - Reading: Chapter 8 of Creative Scala
-9. Function composition
-   - Reading: Chapter 8 of Creative Scala
-9. Art: composing art by composing functions
-   - Reading: Chapter 8 of Creative Scala
-10. Case study: context-free art
+1. Expressions, types, and values: Chapter 2 of Creative Scala and Writing code within a file: Chapter 4 of Creative Scala
+2. Names and substitution: Chapter 5 of Creative Scala and Art: computing with images: Chapter 3 of Creative Scala
+3. Methods: Chapter 6 of Creative Scala and Structural recursion over the natural numbers: Chapter 7 of Creative Scala
+4. Art: structure in recursion
+5. Functions: Chapter 8 of Creative Scala and Function composition: Chapter 8 of Creative Scala
+6. Art: composing art by composing functions: Chapter 8 of Creative Scala. Case study: context-free art, if time allows.
 
 
 ## Intermediate Stream
 
-The intermediate stream will refer to [Essential Scala][essential-scala].
+The intermediate stream will refer to [Essential Scala][essential-scala]. The curriculum for six weeks is:
 
 1. Expressions, types, and values
    - Reading: Chapter 2 of Essential Scala
