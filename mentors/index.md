@@ -39,5 +39,5 @@ It isn't necessary for mentors to attend every session. Life (and even holidays)
 [intellij]: https://github.com/JetBrains/intellij-scala-bundle
 [metals]: https://marketplace.visualstudio.com/items?itemName=scalameta.metals
 [scala-syntax]: https://marketplace.visualstudio.com/items?itemName=scala-lang.scala
-[teaching]: /mentors/teaching
-[curriculum]: /mentors/curriculum
+[teaching]: /teaching
+[curriculum]: /curriculum

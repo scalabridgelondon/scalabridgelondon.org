@@ -3,7 +3,7 @@ layout: layouts/default.njk
 title: Curriculum
 ---
 
-This page covers *what* we teach at ScalaBridge London. The [pedagogy](/mentors/pedagogy) page covers how we teach.
+This page covers *what* we teach at ScalaBridge London. The [pedagogy](/pedagogy) page covers how we teach.
 
 We have three streams:
 - for people who have never programmed or have very limited programming experience, the *beginner* stream;
@@ -21,6 +21,7 @@ The beginner stream will mostly work with [Creative Scala][creative-scala]. We'l
 5. Functions: Chapter 8 of Creative Scala and Function composition: Chapter 8 of Creative Scala
 6. Art: composing art by composing functions: Chapter 8 of Creative Scala. Case study: context-free art, if time allows.
 
+The questions for each week are in our [lessons repository](https://github.com/scalabridgelondon/lesson-plans).
 
 ## Intermediate Stream
 
@@ -38,6 +39,7 @@ The intermediate stream will refer to [Essential Scala][essential-scala]. The cu
    - Chapter 6 of Essential Scala
 6. Case study: spreadsheet
 
+The questions for each week are in our [lessons repository](https://github.com/scalabridgelondon/lesson-plans).
 
 ## Advanced Stream
 

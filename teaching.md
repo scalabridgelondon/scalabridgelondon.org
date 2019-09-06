@@ -3,7 +3,7 @@ layout: layouts/default.njk
 title: Teaching
 ---
 
-This page describes *how* we teach Scala at ScalaBridge; our pedadgogy. The [curriculum](/mentors/curriculum) page covers what we teach.
+This page describes *how* we teach Scala at ScalaBridge; our pedadgogy. The [curriculum](/curriculum) page covers what we teach.
 
 
 ## Why Worry About Pedagogy?
@@ -31,6 +31,8 @@ We now explain these steps in more detail.
 ### Preparation
 
 To prepare for the session students complete some reading and attempt to answer questions relating to that reading. The questions are a mixture of programming and other tasks.
+
+All questions are in our [lessons repository](https://github.com/scalabridgelondon/lesson-plans).
 
 
 ### Group Discussion
