@@ -8,7 +8,7 @@ If you want to learn Scala at ScalaBridge this is the page for you. Anyone who i
 
 ## What It's About
 
-You come to ScalaBridge with your own goals. Our job is to help you achieve those goals, so long as they're broadly in line with what we do. We do have a suggested [curriculum](/mentoring/curriculum) but if you want to take a different path that is entirely fine, so long as we have someone who can support you in doing that. Given the range of experience of our mentors you can learn pretty much anything related to Scala. If you're a complete beginner to programming we can help you. We can also help you if you're already an advanced Scala user.
+You come to ScalaBridge with your own goals. Our job is to help you achieve those goals, so long as they're broadly in line with what we do. We do have a suggested [curriculum](/curriculum) but if you want to take a different path that is entirely fine, so long as we have someone who can support you in doing that. Given the range of experience of our mentors you can learn pretty much anything related to Scala. If you're a complete beginner to programming we can help you. We can also help you if you're already an advanced Scala user.
 
 We recognise that the community aspects of ScalaBridge are just as important as the technical ones. Our mentors are not only there to help you learn Scala but also to help you find jobs and connect with the wider community, if that is your interest. We hope that friendships with mentors and fellow students will extend outside ScalaBridge and into the rest of your professional life.
 
