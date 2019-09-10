@@ -13,7 +13,7 @@ We're currently planning events for the following dates.
 - On season dates:
   - Sept 9th: [Unruly Media](https://www.meetup.com/ScalaBridge-London/events/264245760/)
   - Sept 17th: [ITV](https://www.meetup.com/ScalaBridge-London/events/264336332/)
-  - Sept 24th: Expedia
+  - Sept 24th: [Expedia](https://www.meetup.com/ScalaBridge-London/events/264716127/)
   - Sept 30th or Oct 1st
   - Oct 7th: Twitter UK
   - Oct 15th: Medidata
