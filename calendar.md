@@ -10,6 +10,7 @@ The following is our current schedule of events:
 
 - Off season dates: 
   - Aug 27: [Quantexa](https://www.meetup.com/ScalaBridge-London/events/264124441/)
+
 - On season dates:
   - Sept 9th: [Unruly Media](https://www.meetup.com/ScalaBridge-London/events/264245760/)
   - Sept 17th: [ITV](https://www.meetup.com/ScalaBridge-London/events/264336332/)
@@ -17,7 +18,11 @@ The following is our current schedule of events:
   - Oct 1st: [Quantexa](https://www.meetup.com/ScalaBridge-London/events/264966773/)
   - Oct 7th: [Twitter](https://www.meetup.com/ScalaBridge-London/events/265319801/)
   - Oct 15th: [Medidata](https://www.meetup.com/ScalaBridge-London/events/265471279/)
+  
+- Off season dates:
   - Dec 14th: [CodeNode](https://skillsmatter.com/conferences/12510-scalax2gether-community-day-2019), as part of the ScalaX2gether event following [Scala eXchange](https://skillsmatter.com/conferences/11987-scala-exchange-london-2019)
+  
+  
 
 
 ## Past Events
