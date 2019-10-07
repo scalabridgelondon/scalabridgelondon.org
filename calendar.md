@@ -16,7 +16,7 @@ We're currently planning events for the following dates.
   - Sept 24th: [Expedia](https://www.meetup.com/ScalaBridge-London/events/264716127/)
   - Oct 1st: [Quantexa](https://www.meetup.com/ScalaBridge-London/events/264966773/)
   - Oct 7th: [Twitter](https://www.meetup.com/ScalaBridge-London/events/265319801/)
-  - Oct 15th: Medidata
+  - Oct 15th: [Medidata](https://www.meetup.com/ScalaBridge-London/events/265471279/)
 
 
 ## Past Events
