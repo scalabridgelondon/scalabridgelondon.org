@@ -4,9 +4,9 @@ title: Calendar
 ---
 The calendar lists events we're planning, and serves as a record of events we've run.
 
-## Events in Planning
+## Upcoming Events
 
-We're currently planning events for the following dates.
+The following is our current schedule of events:
 
 - Off season dates: 
   - Aug 27: [Quantexa](https://www.meetup.com/ScalaBridge-London/events/264124441/)
@@ -17,6 +17,7 @@ We're currently planning events for the following dates.
   - Oct 1st: [Quantexa](https://www.meetup.com/ScalaBridge-London/events/264966773/)
   - Oct 7th: [Twitter](https://www.meetup.com/ScalaBridge-London/events/265319801/)
   - Oct 15th: [Medidata](https://www.meetup.com/ScalaBridge-London/events/265471279/)
+  - Dec 14th: [CodeNode](https://skillsmatter.com/conferences/12510-scalax2gether-community-day-2019), as part of the ScalaX2gether event following [Scala eXchange](https://skillsmatter.com/conferences/11987-scala-exchange-london-2019)
 
 
 ## Past Events
