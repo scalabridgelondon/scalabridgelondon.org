@@ -1,15 +1,13 @@
 ---
 layout: post
-tag: posts
+tags: posts
 title: Recapping ScalaBridge Season Two
-description: A few weeks ago we wrapped up season two of ScalaBridge London. Here I want to reflect on what---in my opinion---were the good and bad parts of this season, and discuss what happens next.
+description: A few weeks ago we wrapped up season two of ScalaBridge London. Here I want to reflect on what, in my opinion, were the good and bad parts of this season, and discuss what happens next.
 author: Noel Welsh
 date: 2019-11-12
 ---
 
 A few weeks ago we wrapped up season two of [ScalaBridge London][scalabridge-london]. (For us, a "season" is an intensive series of meetings over a short period of time. Season two was six meetings in six weeks, but we might change this in future.) Here I want to reflect on what---in my opinion---were the good and bad parts of this season, and discuss what happens next.
-
-<!--more-->
 
 ## The Awesome
 
