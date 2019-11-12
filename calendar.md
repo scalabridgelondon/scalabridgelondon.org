@@ -8,6 +8,17 @@ The calendar lists events we're planning, and serves as a record of events we've
 
 The following is our current schedule of events:
 
+- Off season dates:
+  - Nov 12th: [OVO](https://www.meetup.com/ScalaBridge-London/events/265769705/)
+  - Dec 9th: [Elsevier](https://www.meetup.com/ScalaBridge-London/events/266381145/)
+  - Dec 14th: [CodeNode](https://skillsmatter.com/conferences/12510-scalax2gether-community-day-2019), as part of the ScalaX2gether event following [Scala eXchange](https://skillsmatter.com/conferences/11987-scala-exchange-london-2019)
+  - Jan 21st: [Marks & Spencer](https://www.meetup.com/ScalaBridge-London/events/266409022/)
+
+
+## Past Events
+
+In Season Two we had the following events:
+
 - Off season dates: 
   - Aug 27: [Quantexa](https://www.meetup.com/ScalaBridge-London/events/264124441/)
 
@@ -18,17 +29,8 @@ The following is our current schedule of events:
   - Oct 1st: [Quantexa](https://www.meetup.com/ScalaBridge-London/events/264966773/)
   - Oct 7th: [Twitter](https://www.meetup.com/ScalaBridge-London/events/265319801/)
   - Oct 15th: [Medidata](https://www.meetup.com/ScalaBridge-London/events/265471279/)
-  
-- Off season dates:
-  - Nov 12th: [OVO](https://www.meetup.com/ScalaBridge-London/events/265769705/)
-  - Dec 9th: [Elsevier](https://www.meetup.com/ScalaBridge-London/events/266381145/)
-  - Dec 14th: [CodeNode](https://skillsmatter.com/conferences/12510-scalax2gether-community-day-2019), as part of the ScalaX2gether event following [Scala eXchange](https://skillsmatter.com/conferences/11987-scala-exchange-london-2019)
-  - Jan: Marks & Spencer
-  
-  
 
 
-## Past Events
 
 The first ever ScalaBridge season ran on the following dates and locations:
 
