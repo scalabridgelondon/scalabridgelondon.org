@@ -11,7 +11,7 @@ The following is our current schedule of events:
 - Off season dates:
   - Nov 12th: [OVO](https://www.meetup.com/ScalaBridge-London/events/265769705/)
   - Dec 9th: [Elsevier](https://www.meetup.com/ScalaBridge-London/events/266381145/)
-  - Dec 14th: [CodeNode](https://skillsmatter.com/conferences/12510-scalax2gether-community-day-2019), as part of the ScalaX2gether event following [Scala eXchange](https://skillsmatter.com/conferences/11987-scala-exchange-london-2019)
+  - Dec 14th: [London Scala Community Day](https://www.meetup.com/london-scala/events/266639110/)
   - Jan 21st: [Marks & Spencer](https://www.meetup.com/ScalaBridge-London/events/266409022/)
 
 
