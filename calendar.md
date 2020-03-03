@@ -8,11 +8,16 @@ The calendar lists events we're planning, and serves as a record of events we've
 
 The following is our current schedule of events:
 
-- Off season dates:
-  - Nov 12th: [OVO](https://www.meetup.com/ScalaBridge-London/events/265769705/)
-  - Dec 9th: [Elsevier](https://www.meetup.com/ScalaBridge-London/events/266381145/)
-  - Dec 14th: [London Scala Community Day](https://www.meetup.com/london-scala/events/266639110/)
-  - Jan 21st: [Marks & Spencer](https://www.meetup.com/ScalaBridge-London/events/266409022/)
+In Season Three we are have the following dates:
+
+- 16th March
+- 30th March
+- (Easter break; would be 13th April)
+- 27th April
+- 11th May: Depop
+- (Late May bank holiday; would be 25th May)
+- 8th June
+- 22nd June
 
 
 ## Past Events
@@ -30,6 +35,11 @@ In Season Two we had the following events:
   - Oct 7th: [Twitter](https://www.meetup.com/ScalaBridge-London/events/265319801/)
   - Oct 15th: [Medidata](https://www.meetup.com/ScalaBridge-London/events/265471279/)
 
+- Off season dates:
+  - Nov 12th: [OVO](https://www.meetup.com/ScalaBridge-London/events/265769705/)
+  - Dec 9th: [Elsevier](https://www.meetup.com/ScalaBridge-London/events/266381145/)
+  - Dec 14th: [London Scala Community Day](https://www.meetup.com/london-scala/events/266639110/)
+  - Jan 21st: [Marks & Spencer](https://www.meetup.com/ScalaBridge-London/events/266409022/)
 
 
 The first ever ScalaBridge season ran on the following dates and locations:
