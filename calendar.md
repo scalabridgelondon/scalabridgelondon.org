@@ -8,16 +8,14 @@ The calendar lists events we're planning, and serves as a record of events we've
 
 The following is our current schedule of events:
 
-In Season Three we are have the following dates:
-
-- 16th March
-- 30th March
+- 16th March: Awaiting a host
+- 30th March: Awaiting a host
 - (Easter break; would be 13th April)
-- 27th April
+- 27th April: Awaiting a host
 - 11th May: Depop
 - (Late May bank holiday; would be 25th May)
-- 8th June
-- 22nd June
+- 8th June: Awaiting a host
+- 22nd June: Awaiting a host
 
 
 ## Past Events
