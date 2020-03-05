@@ -9,7 +9,7 @@ The calendar lists events we're planning, and serves as a record of events we've
 The following is our current schedule of events:
 
 - 16th March: Awaiting a host
-- 30th March: Awaiting a host
+- 30th March: Quantexa
 - (Easter break; would be 13th April)
 - 27th April: Awaiting a host
 - 11th May: Depop
