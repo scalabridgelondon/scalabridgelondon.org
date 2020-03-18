@@ -6,17 +6,9 @@ The calendar lists events we're planning, and serves as a record of events we've
 
 ## Upcoming Events
 
-The following is our current schedule of events:
+All our in-person sessions are cancelled until the risk of the COVID-19 pandemic has receded. Until then [we're moving online](/posts/2020-03-18-covid-19/).
 
-- 16th March: Awaiting a host
-- 30th March: Quantexa
-- (Easter break; would be 13th April)
-- 27th April: Awaiting a host
-- 11th May: Depop
-- (Late May bank holiday; would be 25th May)
-- 8th June: Awaiting a host
-- 22nd June: Awaiting a host
-
+* March 19th: Mentor training and installation.
 
 ## Past Events
 
