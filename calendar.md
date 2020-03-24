@@ -9,6 +9,7 @@ The calendar lists events we're planning, and serves as a record of events we've
 All our in-person sessions are cancelled until the risk of the COVID-19 pandemic has receded. Until then [we're moving online](/posts/2020-03-18-covid-19/).
 
 * March 19th: Mentor training and installation.
+* March 30th: [Season Three signup form][season-3-signup] (fill this out before the sesson). [Meetup event listing][season-3-1-meetup]. [Join this event][season-3-1] (use on the day to join the online session).
 
 ## Past Events
 
@@ -42,3 +43,5 @@ The first ever ScalaBridge season ran on the following dates and locations:
 * 30 May: The Guardian
 
 [quantexa]: https://www.quantexa.com/
+[season-3-1-meetup]: https://www.meetup.com/ScalaBridge-London/events/269624052/
+[season-3-1]: https://eu.bbcollab.com/guest/a1d7181e404f40b58b11c37c62af823d
