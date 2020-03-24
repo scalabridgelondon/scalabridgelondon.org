@@ -7,13 +7,16 @@ This page covers *what* we teach at ScalaBridge London. The [teaching](/teaching
 
 Our curriculum is ordered into five levels, each of which roughly corresponds to six sessions of work. At the completion of the five levels you should know enough to be an advanced beginner / intermediate Scala developer.
 
+Our text is [Creative Scala][creative-scala]. The curriculum below is annotated with chapters from Creative Scala where available.
 
 ## Level One
 
 ### Setup
 - Get setup with a development environment. This is currently (March 2020) [Visual Studio Code](https://code.visualstudio.com/).
+- *Do not* follow the setup in Creative Scala. It is out of date. Instead follow our [preparation](/preparation) steps.
 
 ### Expressions, Types, and Values
+- Creative Scala Chapter 2
 - Literals
 - Expressions have types and produce values
 - Compound expressions
@@ -23,6 +26,7 @@ Our curriculum is ordered into five levels, each of which roughly corresponds to
   - parameters
 
 ### Workflow
+- Creative Scala Chapter 4
 - Starting and stopping `sbt`
 - Wrapping code in `object`
 - Compiling code
@@ -31,6 +35,7 @@ Our curriculum is ordered into five levels, each of which roughly corresponds to
 - `sbt` Workflow
 
 ### Names and Substitution
+- Creative Scala Chapter 5
 - Giving names to values
   - Motivation
 - Using names
@@ -40,9 +45,11 @@ Our curriculum is ordered into five levels, each of which roughly corresponds to
 - Local reasoning
 
 ### Art: Computing with Images
+- Creative Scala Chapter 3
 - Doodle basics
 
 ### Methods
+- Creative Scala Chapter 6
 - Motivation
 - Method declaration syntax
 - Method call semantics
@@ -50,6 +57,7 @@ Our curriculum is ordered into five levels, each of which roughly corresponds to
 - Methods generalize expressions
 
 ### Structural Recursion over the Natural Numbers
+- Creative Scala Chapter 7
 - Motivation
   - Do something a variable number of times
 - The natural numbers
@@ -62,12 +70,14 @@ Our curriculum is ordered into five levels, each of which roughly corresponds to
   - Denotational reasoning: what is the base case, what is the one-step recursive case?
 
 ### Art: Structure in Recursion
+- Creative Scala Chapter 8
 - Fractals
 
 
 ## Level Two
 
 ### Functions
+- Creative Scala Chapter 9
 - Functions as values
 - Abstracting over expressions with functions
 - Parametric equations of curves
@@ -161,3 +171,6 @@ Our curriculum is ordered into five levels, each of which roughly corresponds to
 
 ### Case Studies
 - Implement something chosen between the students and the mentor. E.g. something web based or a programming language.
+
+
+[creative-scala]: https://www.creativescala.org/
