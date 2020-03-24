@@ -43,5 +43,6 @@ The first ever ScalaBridge season ran on the following dates and locations:
 * 30 May: The Guardian
 
 [quantexa]: https://www.quantexa.com/
+[season-3-signup]: https://docs.google.com/forms/d/e/1FAIpQLSckueuSBamnwZtYixietp0zsu_jVSIm_-Xe6IJ8xTeX-fKFwg/viewform
 [season-3-1-meetup]: https://www.meetup.com/ScalaBridge-London/events/269624052/
 [season-3-1]: https://eu.bbcollab.com/guest/a1d7181e404f40b58b11c37c62af823d
