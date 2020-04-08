@@ -8,7 +8,7 @@ This page describes *how* we teach Scala at ScalaBridge; our pedadgogy. The [cur
 
 ## Why Worry About Pedagogy?
 
-Teaching is a skill that can learned, and improving at this skill definitely makes a difference to how effective our lessons are. We all have experience of teaching to some extent, so our baseline level of skill is probably higher than the average person's baseline programming ability, but that doesn't mean the ceiling is low.
+Teaching is a skill that can be learned, and improving at this skill definitely makes a difference to how effective our lessons are. We all have experience of teaching to some extent, so our baseline level of skill is probably higher than the average person's baseline programming ability, but that doesn't mean the ceiling is low.
 
 We want to improve the teaching at ScalaBridge London, so we have some specific teaching techniques we want you to use, along with some general tips. The techniques may not work, but at least if we are intentional in what we try we can make definite statements about our results and improve our techniques. So please try to use the techniques below.
 
@@ -17,7 +17,7 @@ We want to improve the teaching at ScalaBridge London, so we have some specific 
 
 Our sessions are run using a modified version of [interteaching][interteaching] (also see [here][interteaching-paper]), with a bit of [mastery learning][mastery-learning] thrown in. Here is how it works.
 
-At the start of each session students decide, perhaps with a bit of help from mentors, which topic they are following for that session. Students may decide they want to stay on the same topic as last session, or move on to the next topic; progression through topics is entirely at the students control and there is no need to move at the same rate as other students.
+At the start of each session students decide, perhaps with a bit of help from mentors, which topic they are following for that session. Students may decide they want to stay on the same topic as last session, or move on to the next topic; progression through topics is entirely at the students' control and there is no need to move at the same rate as other students.
 
 After choosing topics the session runs as follows:
 
@@ -41,21 +41,21 @@ Mentors are encouraged to familiarize themselves with the material, but like the
 
 ### Group Discussion
 
-Group discussion takes place in small groups (usually 2 or 3). Ideally the groups are different each time so students have a chance to interact with many other students. In the groups the students work through the material. This should be a collaborative process with plenty of discussion. Mentors are actively engaged in these discussions. The mentors aim to not give the students answers but give them prompts to they can discover the answers themselves.
+Group discussion takes place in small groups (usually 2 or 3). Ideally the groups are different each time so students have a chance to interact with many other students. In the groups the students work through the material. This should be a collaborative process with plenty of discussion. Mentors are actively engaged in these discussions. The mentors aim to not give the students answers but give them prompts so they can discover the answers themselves.
 
 The discussion should take about one to one and half hours.
 
 
 ### Group Discussion and Clarification 
 
-Once the discussion ends, all the students taking a topic in a session get back together. The mentors lead discussion through the material. Student groups will be selected to give answers, and any student who had issues with a question is encouraged to raise them at this point so the class can clarify and discuss. As well as reinforcing the lesson this part is an opportunity for students to share ideas with the wider group, and to build the community that we believe in important at ScalaBridge.
+Once the discussion ends, all the students taking a topic in a session get back together. The mentors lead discussion through the material. Student groups will be selected to give answers, and any student who had issues with a question is encouraged to raise them at this point so the class can clarify and discuss. As well as reinforcing the lesson this part is an opportunity for students to share ideas with the wider group, and to build the community that we believe is important at ScalaBridge.
 
 This should take the remaining time available.
 
 
 ### Justification
 
-Our main technique is interteaching. We don't want to do formal assessment (I'm assuming most people have had more than enough in the school life) so we don't do the aspects of interteaching that involve assessment. As we're not working towards a final exam we can allow people to progress at their own pace, as in mastery learning. However we don't have assessments that gate advancement; we leave this to the students to decide. As we have a low student to mentor ratio and fairly small classes we can make things a bit more interactive than in standard interteaching.
+Our main technique is interteaching. We don't want to do formal assessments (I'm assuming most people have had more than enough in the school life), so we don't do the aspects of interteaching that involve assessment. As we're not working towards a final exam we can allow people to progress at their own pace, as in mastery learning. However we don't have assessments that gate advancement; we leave this to the students to decide. As we have a low student to mentor ratio and fairly small classes we can make things a bit more interactive than in standard interteaching.
 
 
 ## Programming Strategies
