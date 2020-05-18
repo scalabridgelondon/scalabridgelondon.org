@@ -12,6 +12,9 @@ All our in-person sessions are cancelled until the risk of the COVID-19 pandemic
 * March 30th: [Season Three signup form][season-3-signup] (fill this out before the sesson). [Meetup event listing][season-3-1-meetup]. [Join this event](https://eu.bbcollab.com/guest/a1d7181e404f40b58b11c37c62af823d) (use on the day to join the online session).
 * April 13th: [Student signup form](https://docs.google.com/forms/d/e/1FAIpQLScqlrHSf0rUT333FQR8TDaHdMDYf7dTLqoUHHxQCpFXbhtizw/viewform). [Meetup event](https://www.meetup.com/ScalaBridge-London/events/269927607/). [Join this event on the day](https://eu.bbcollab.com/guest/c9178424a9834ec1a04d80edb3b95356).
 * May 4th: [Student signup form](https://docs.google.com/forms/d/e/1FAIpQLSfkI8HRxH75g4aSmzEzS6IhC2dfRNPKjPDNt8hutbGt19RopQ/viewform). [Meetup event](https://www.meetup.com/ScalaBridge-London/events/270274736/). [Join this event on the day](https://eu.bbcollab.com/guest/c9178424a9834ec1a04d80edb3b95356).
+* May 18th: [Meetup event](https://www.meetup.com/ScalaBridge-London/events/270646873/) We've switched to Zoom. The Zoom link is in the Meetup event.
+* June 1st: [Meetup event](https://www.meetup.com/ScalaBridge-London/events/270646884/) 
+* June 15th: [Meetup event](https://www.meetup.com/ScalaBridge-London/events/270646899/) 
 
 ## Past Events
 
