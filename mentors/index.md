@@ -10,7 +10,7 @@ On this page we answer some common questions about ScalaBridge, and link off to 
 
 ## Overview
 
-Our main activity is small group teaching. This means learning Scala in a small group consisting of a few students of roughly the same level and a mentor. If possible we'll keep the groups together, but this won't always happen. You job as the mentor is guide the students, give them feedback, but don't do the work for them! More on how to teach is on the [pedagogy][pedagogy] page.
+Our main activity is small group teaching. This means learning Scala in a small group consisting of a few students of roughly the same level and a mentor. If possible we'll keep the groups together, but this won't always happen. You job as the mentor is guide the students, give them feedback, but don't do the work for them! More on how to teach is on the [teaching][teaching] page.
 
 
 ## Attendance

@@ -6,7 +6,7 @@ title: Teaching
 This page describes *how* we teach Scala at ScalaBridge; our pedadgogy. The [curriculum](/curriculum) page covers what we teach.
 
 
-## Why Worry About Pedagogy?
+## Why Worry About Teaching?
 
 Teaching is a skill that can be learned, and improving at this skill definitely makes a difference to how effective our lessons are. We all have experience of teaching to some extent, so our baseline level of skill is probably higher than the average person's baseline programming ability, but that doesn't mean the ceiling is low.
 
