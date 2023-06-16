@@ -6,11 +6,7 @@ The calendar lists events we're planning, and serves as a record of events we've
 
 ## Upcoming Events
 
-All our upcoming sessions are [online](/posts/2020-03-18-covid-19/). Please [signup](https://docs.google.com/forms/d/e/1FAIpQLSevbryl5UPf6WeB0OVTIhG1I58_C9Gz_U5h6m639hdgkSJ93Q/viewform) to help us with preparation.
-
-- [Nov 9th 2020](https://www.meetup.com/ScalaBridge-London/events/qwsfbsybcpbmb/)
-- [Nov 23rd 2020](https://www.meetup.com/ScalaBridge-London/events/qwsfbsybcpbfc/)
-- [Dec 7th 2020](https://www.meetup.com/ScalaBridge-London/events/qwsfbsybcqbkb/)
+We are currently planning our next series of events, bringing back ScalaBridge in 2023.
 
 
 ## Past Events
@@ -24,7 +20,9 @@ In Season Three we went online due to the COVID-19 pandemic, with the following 
 - May 18th: [Meetup event](https://www.meetup.com/ScalaBridge-London/events/270646873/) We've switched to Zoom. The Zoom link is in the Meetup event.
 - June 1st: [Meetup event](https://www.meetup.com/ScalaBridge-London/events/270646884/) 
 - June 15th: [Meetup event](https://www.meetup.com/ScalaBridge-London/events/270646899/) 
-
+- [Nov 9th 2020](https://www.meetup.com/ScalaBridge-London/events/qwsfbsybcpbmb/)
+- [Nov 23rd 2020](https://www.meetup.com/ScalaBridge-London/events/qwsfbsybcpbfc/)
+- [Dec 7th 2020](https://www.meetup.com/ScalaBridge-London/events/qwsfbsybcqbkb/)
 
 In Season Two we had the following events:
 
