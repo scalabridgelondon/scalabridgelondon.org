@@ -5,172 +5,29 @@ title: Curriculum
 
 This page covers *what* we teach at ScalaBridge London. The [teaching](/teaching) page covers how we teach.
 
-Our curriculum is ordered into five levels, each of which roughly corresponds to six sessions of work. At the completion of the five levels you should know enough to be an advanced beginner / intermediate Scala developer.
-
-Our text is [Creative Scala][creative-scala]. The curriculum below is annotated with chapters from Creative Scala where available.
-
-## Level One
-
-### Setup
-- Get setup with a development environment. This is currently (March 2020) [Visual Studio Code](https://code.visualstudio.com/).
-- *Do not* follow the setup in Creative Scala. It is out of date. Instead follow our [preparation](/preparation) steps.
-
-### Expressions, Types, and Values
-- Creative Scala Chapter 2
-- Literals
-- Expressions have types and produce values
-- Compound expressions
-- All values are objects
-- Method call syntax
-  - dot notation
-  - parameters
-
-### Workflow
-- Creative Scala Chapter 4
-- Starting and stopping `sbt`
-- Wrapping code in `object`
-- Compiling code
-- Running code and using `App`
-- Experimenting in the console
-- `sbt` Workflow
-
-### Names and Substitution
-- Creative Scala Chapter 5
-- Giving names to values
-  - Motivation
-- Using names
-  - Names abstract over expressions
-- The substitution model of evaluation
-- Order of evaluation
-- Local reasoning
-
-### Art: Computing with Images
-- Creative Scala Chapter 3
-- Doodle basics
-
-### Methods
-- Creative Scala Chapter 6
-- Motivation
-- Method declaration syntax
-- Method call semantics
-  - In terms of substitution
-- Methods generalize expressions
-
-### Structural Recursion over the Natural Numbers
-- Creative Scala Chapter 7
-- Motivation
-  - Do something a variable number of times
-- The natural numbers
-  - Recursive definition
-- Structural recursion pattern
-  - Structure of code follows structure of definition
-  - Solve the cases
-- Reasoning about code
-  - Operational reasoning: substitution
-  - Denotational reasoning: what is the base case, what is the one-step recursive case?
-
-### Art: Structure in Recursion
-- Creative Scala Chapter 8
-- Fractals
+Our curriculum follows [Creative Scala][creative-scala]. At the time of writing, Creative Scala is being reworked. The description below follows the plan for Creative Scala.
 
 
-## Level Two
+## Overview
 
-### Functions
-- Creative Scala Chapter 9
-- Functions as values
-- Abstracting over expressions with functions
-- Parametric equations of curves
-- Function composition
-- Composition for parametric equations
+Our goals are:
 
-### Art: Animations
-- Animations as images displayed over time instead of space
-- Animation using reactors (or transducers?)
-  - Structural recursion "unrolled" into a reactor
-- Parametric equations as reactors
+* introduce core programming principles that apply to Scala and other programming languages;
+* introduce programming processes, such as editor usage, testing, and version control; and
+* get some experience with different subfields within the software development industry.
 
-### Lists
-- Paths as lists of path elements
-- Polygons as paths
-- Structural recursion over lists
-- `map` for transforming lists
-- Animating polygons
+Note that Scala is the vehicle we use to teach programming, but the concepts are broadly applicable to programming in other languages.
 
-### Custom Data
-- Case classes as logical ands
-- Animations using custom data
-  - Simple physics. Bouncing ball.
-  - Multiple parametric equations
+## Details
 
-### FlatMap
-- Changing length of a list to add and remove particles in a particle system
-- flatMap using structural recursion
-- flatMap as changing the length of a List
-- Responding to mouse events
-- Particle systems. Ripples. etc.
+Creative Scala is organized into four parts. Each part introduces new programming techniques within the context of a particular subfield.
 
-### Project: Puzzle Game
-- Tile matching video game
-
-
-## Level Three
-
-### Algebraic Data Types and Structural Recursion 1: Ands and Ors
-- Modelling data in terms of ands and ors; sealed traits and final case classes
-  - Non-recursive data
-  - *NOTE* Keep examples concrete
-- Structural recursion (w/o recursion!)
-  - Pattern matching (familiar by now)
-  - Polymorphism
-    - Abstract methods
-- State machines. FSM animations. E.g. exploding fireworks or interacting FSMs? FSMs for modelling interaction?
-
-### Algebraic Data Types and Structural Recursion 2: Recursion
-- The recursion rule
-- Recursive data
-- Transforming recursive data
-- Grammars and l-systems
-
-### Functions and Generic Types
-- Generic types
-- Containers
-- Functions to work with generic types
-- kd-tree? Faster intersection tests?
-
-### Standard Library Types
-- Option, Either, Map
-- map, flatMap
-- find, exists
-
-### Map and FlatMap
-- We've already seen map, but review
-- flatMap
-- L-Systems again?
-
-### Fold
-- fold as an abstraction of structural recursion
-
-
-## Level Four
-
-### Type Classes and Implicits
-- Implicit parameters
-- Implicit values
-
-### Type Classes in Cats
-- Monoid
-- Monad
-- Applicative / Semigroupal
-
-### Probability Monad?
-- Generative art w/ randomisation
-
-
-## Level Five
-
-### Case Studies
-- Implement something chosen between the students and the mentor. E.g. something web based or a programming language.
+1. Part one uses [creative coding][creative-coding] as our vehicle to get started with programming and learn the basics.
+2. In part two we switch to analysing data, part of what is known as [data science][data-science]. We learn about working with collections of data and defining basic data structure.
+3. Part three switches to web development. We learn about front- and back-end develompent, creating more complex data, and touch on some of the advanced features of Scala.
+4. In our final part we implement a simple programming language, which brings together everything we've learned so far and gives us a deeper understanding of fundamental concepts in programming.
 
 
 [creative-scala]: https://www.creativescala.org/
+[creative-coding]: https://en.wikipedia.org/wiki/Creative_coding
+[data-science]: https://en.wikipedia.org/wiki/Data_science
