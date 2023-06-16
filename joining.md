@@ -17,7 +17,7 @@ Things to be aware of:
 * All ScalaBridge events are covered by our [code of conduct][coc].
 
 [slack]: https://scalabridge-invite.herokuapp.com/
-[signup-form]: https://docs.google.com/forms/d/e/1FAIpQLSckueuSBamnwZtYixietp0zsu_jVSIm_-Xe6IJ8xTeX-fKFwg/viewform
+[signup-form]: https://docs.google.com/forms/d/1adLLCbtRZREyCdhayDYqrFaCNXPJ9EMyrqX_-zEZuUc/edit
 [meetup]: https://www.meetup.com/ScalaBridge-London/
 [coc]: https://scalabridge.org/code-of-conduct
 [preparation]: /preparation
