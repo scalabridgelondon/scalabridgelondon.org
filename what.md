@@ -5,7 +5,7 @@ title: What We Do
 
 Our mission is to improve diversity within the [Scala][scala] community and within the wider programming community.
 
-What this means in practice is:
+In practice this means:
 
 * We run a meetup where we learn to program.
 * We create course material that is freely available so you can learn on your own or run your own meetup.
