@@ -41,7 +41,7 @@ Mentors are encouraged to familiarize themselves with the material, but like the
 
 ### Group Discussion
 
-Group discussion takes place in small groups (usually 2 or 3). Ideally the groups are different each time so students have a chance to interact with many other students. In the groups the students work through the material. This should be a collaborative process with plenty of discussion. Mentors are actively engaged in these discussions. The mentors aim to not give the students answers but give them prompts so they can discover the answers themselves.
+Group discussion takes place in small groups (usually 2 or 3). Ideally the groups are different each time so students have a chance to interact with many other students and mentors. In the groups the students work through the material. This should be a collaborative process with plenty of discussion. Mentors are actively engaged in these discussions. The mentors aim to not give the students answers but give them prompts so they can discover the answers themselves.
 
 The discussion should take about one to one and half hours.
 

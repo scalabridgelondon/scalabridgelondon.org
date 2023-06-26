@@ -22,12 +22,12 @@ The main thing you'll need is a laptop on which we can install Scala and develop
 
 ## What We Do
 
-Our main activity is small-group teaching. This means learning Scala in a small group consisting of a few students of roughly the same level as yourself and a mentor, who is an experienced developer. There is more to programming than code, and it is certainly more fun to learn together, so we include time for socialising at each session. We divide our year into [seasons](/seasons) which means we alternate between intensive periods of study and more relaxed events.
+Our main activity is small-group teaching. This means learning Scala in a small group consisting of a few students of roughly the same level as yourself and a mentor, who is an experienced developer. There is more to programming than code, and it is certainly more fun to learn together, so we include time for socialising at each session. We roughly follow the school calendar which means we alternate between intensive periods of study and holidays.
 
 
 
 ## If It Doesn't Work Out
 
-We understand what we're doing won't be for everyone, and some of you will be keen to attend but life will get in the way. If you want to drop out of an [on season](/seasons) that is no problem. Just drop us a note so we can rebalance the groups. We also really appreciate any feedback you can give us that will help improve how we run ScalaBridge.
+We understand what we're doing won't be for everyone, and some of you will be keen to attend but life will get in the way. If you want to drop out that is no problem. Just drop us a note so we can rebalance the groups. We also really appreciate any feedback you can give us that will help improve how we run ScalaBridge.
 
 [coc]: https://scalabridge.org/code-of-conduct
