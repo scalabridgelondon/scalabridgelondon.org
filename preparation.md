@@ -31,16 +31,10 @@ You'll need a development environment to write Scala code. Here is what we recom
 Download (or fork or clone, if you are familiar with Git) the [Creative Scala template](https://github.com/creativescala/creative-scala-template) to get a simple Scala project (with some reasonably appealing output).
 
 
-## Reading
-
-Take a look at the [curriculum][curriculum] and [teaching][teaching] pages to see what and how we teach, and optional work you can do before a session.
-
 [coursier]: https://get-coursier.io/docs/cli-installation
 [vscode]: https://code.visualstudio.com/
 [intellij]: https://www.jetbrains.com/idea/
 [metals]: https://marketplace.visualstudio.com/items?itemName=scalameta.metals
 [scala-syntax]: https://marketplace.visualstudio.com/items?itemName=scala-lang.scala
 [intellij-scala]: https://plugins.jetbrains.com/plugin/1347-scala
-[teaching]: /teaching
-[curriculum]: /curriculum
 [jdk]: https://adoptium.net/en-GB/temurin/releases/
