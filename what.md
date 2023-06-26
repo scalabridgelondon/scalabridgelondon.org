@@ -11,7 +11,7 @@ In practice this means:
 * We create course material that is freely available so you can learn on your own or run your own meetup.
 * We understand the importance of other people in learning and in one's career, so we create a community connecting programmers of different levels of experience and seniority in a supportive environment.
 
-ScalaBridge London is community run, meaning is run by the people it serves. We have an informal management structure. (If the need arises we'll formalize it.) Anyone can get involved with decision making if they're interested, but there is no requirement to do so.
+ScalaBridge London is community run, meaning is run by the people it serves. We have an informal management structure. (We'll formalize it if the need arises.) Anyone can get involved with decision making if they're interested, but there is no requirement to do so.
 
 We aren't the diversity police. Our teaching is aimed at those underrepresented in the programming community but we're not making a ruling on who is and isn't underrepresented. If you think you belong you probably do.
 
