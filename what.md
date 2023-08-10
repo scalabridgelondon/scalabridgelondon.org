@@ -14,9 +14,9 @@ In practice this means:
 
 ## Who It's For
 
-ScalaBridge London is community run, meaning is run by the people it serves. We have an informal management structure. (We'll formalize it if the need arises.) Anyone can get involved with decision making if they're interested, but there is no requirement to do so.
+ScalaBridge London is community run, meaning it is run by the people it serves. We have an informal management structure. (We'll formalize it if the need arises.) Anyone can get involved with decision making if they're interested, but there is no requirement to do so.
 
-Our teaching is aimed at those underrepresented in the programming community but we're not the diversity police. We aren't going to make rulings on who is and isn't underrepresented. If you think you belong you probably do.
+Our teaching is aimed at those underrepresented in the programming community. However, we're not the diversity police. We aren't going to make rulings on who is and isn't underrepresented. If you think you belong you probably do.
 
 
 ## A Bit of History
