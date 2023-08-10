@@ -7,7 +7,7 @@ There are two options for learning via ScalaBridge:
 
 1. For who we imagine will be the typical ScalaBridge student, someone completely new to programming to a few years into professional programming, we have developed the curriculum described below.
 
-2. For more experienced developers, with a clear idea of what they want to learn, we can work together to come up with material that meets your goals. Just beaware that creating training material is a lot of work, and our capacity to do this is limited.
+2. For more experienced developers, with a clear idea of what they want to learn, we can work together to come up with material that meets your goals. Just beaware that creating training material is a lot of work, and our capacity to do this is limited. If you want to go this route, please email us to discuss.
 
 
 ## Curriculum Goals
@@ -38,7 +38,7 @@ Want more details? You can always look at [Creative Scala][creative-scala] but h
 
 ### Part One
 
-* Types, expressions, and values as building blocks of programs
+* Types, expressions, and values. Names and scopes.
 * Substitution model of evaluation as a notional machine for understanding code
 * Structural recursion over the natural numbers (pattern matching)
 * Methods and functions as abstractions
