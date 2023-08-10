@@ -6,7 +6,8 @@ The calendar lists events we're planning, and serves as a record of events we've
 
 ## Upcoming Events
 
-We are currently planning our next series of events, bringing back ScalaBridge in 2023.
+- 16 August 2023: [Pre-season: Q&A and Mentor Training](https://www.meetup.com/scalabridge-london/events/295321990/)
+
 
 
 ## Past Events
