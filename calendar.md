@@ -4,10 +4,27 @@ title: Calendar
 ---
 The calendar lists events we're planning, and serves as a record of events we've run.
 
-## Upcoming Events
+## Season Four
+
+ScalaBridge London has restarted in 2023, with the following events.
+
+
+### Upcoming Events
+
+- 6 Sept 2023: In-person. *Needs a host*
+- [12 Sept 2023: ScalaBridge at Scala Days Madrid](https://scaladays.org/madrid-2023/scala-bridge). Not an official ScalaBridge London event, but some of our mentors are helping run this event in Madrid.
+- 20 Sept 2023: Online.
+- 4 Oct 2023: In-person. *Needs a host*
+- 18 Oct 2023: Online.
+- 1 Nov 2023: In-person. *Needs a host*
+- 15 Nov 2023: Online.
+- 29 Nov 2023: In-person. *Needs a host*
+- 13 Dec 2023: Online.
+- 20 Dec 2023: Christmas Party?
+
+### Past Events
 
 - 16 August 2023: [Pre-season: Q&A and Mentor Training](https://www.meetup.com/scalabridge-london/events/295321990/)
-
 
 
 ## Past Events
