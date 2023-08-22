@@ -9,12 +9,7 @@ See the page on [joining](/joining) for specific steps you should take to attend
 
 ## Who It's For
 
-ScalaBridge London is a diversity oriented organization.
-If you join ScalaBridge London you should agree with our mission, and agree to follow our [Code of Conduct][coc].
-Our teaching is aimed at those underrepresented in the programming community. 
-However, we're not the diversity police. 
-We aren't going to make rulings on who is and isn't underrepresented. 
-If you think you belong you probably do.
+ScalaBridge London is a diversity oriented organization. If you join ScalaBridge London you should agree with our mission, and agree to follow our [Code of Conduct][coc]. Our teaching is aimed at those underrepresented in the programming community. However, we're not the diversity police. We aren't going to make rulings on who is and isn't underrepresented. If you think you belong you probably do.
 
 
 ## Learning at ScalaBridge London
