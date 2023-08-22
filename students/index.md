@@ -3,8 +3,7 @@ layout: layouts/default.njk
 title: Students
 ---
 
-If you want to learn Scala at ScalaBridge this is the page for you. 
-See the page on [joining](/joining) for specific steps you should take to attend events, and the [calendar](/calendar) for upcoming events. ScalaBridge is completely free to attend.
+If you want to learn Scala at ScalaBridge this is the page for you. See the page on [joining](/joining) for specific steps you should take to attend events, and the [calendar](/calendar) for upcoming events. ScalaBridge is completely free to attend.
 
 
 ## Who It's For
