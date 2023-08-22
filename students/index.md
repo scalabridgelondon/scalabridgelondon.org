@@ -3,12 +3,34 @@ layout: layouts/default.njk
 title: Students
 ---
 
-If you want to learn Scala at ScalaBridge this is the page for you. Anyone who identifies as belonging to a group that is under-represented within technology and agrees to our [Code of Conduct][coc] can join ScalaBridge as a student. See the page on [joining](/joining) for specific steps you should take to attend events, and the [calendar](/calendar) for upcoming events. ScalaBridge is completely free to attend.
+If you want to learn Scala at ScalaBridge this is the page for you. 
+See the page on [joining](/joining) for specific steps you should take to attend events, and the [calendar](/calendar) for upcoming events. ScalaBridge is completely free to attend.
 
 
-## What It's About
+## Who It's For
 
-You come to ScalaBridge with your own goals. Our job is to help you achieve those goals, so long as they're broadly in line with what we do. We do have a suggested [curriculum](/curriculum) but if you want to take a different path that is entirely fine, so long as we have someone who can support you in doing that. Given the range of experience of our mentors you can learn pretty much anything related to Scala. If you're a complete beginner to programming we can help you. We can also help you if you're already an advanced Scala user.
+ScalaBridge London is a diversity oriented organization.
+If you join ScalaBridge London you should agree with our mission, and agree to follow our [Code of Conduct][coc].
+Our teaching is aimed at those underrepresented in the programming community. 
+However, we're not the diversity police. 
+We aren't going to make rulings on who is and isn't underrepresented. 
+If you think you belong you probably do.
+
+
+## Learning at ScalaBridge London
+
+There are two general pathways for students at ScalaBridge London:
+
+- following our suggested [curriculum](/curriculum), which is designed for people with no or limited programming experience; or
+- creating your own curriculum based on your own interests.
+
+If you take the first option, following our curriculum, we'll put you in a group with students of a similar level along with a group of mentors to help you. In an ideal world this group will stay together throughout your time at ScalaBridge London.
+
+There's no set pathway if you choose your own curriculum. Communication and flexibility are the most important things if you make this choice. It takes a lot of work to create learning material, and not every mentor will be able to help you with the content you're interested in. So talk to us about what you want to do if you decide to create your own curriculum.
+
+Whichever option you choose, understand that learning at ScalaBridge London is not like learning at most educational institutions. We have a lot more flexibility, because we're not constrained by graduating students in a particular timeframe with fixed learning outcomes. As a result, we don't require everyone starts at the same place or progresses at the same rate. If you're finding certain material hard you can spend longer on it. Similarly, if you find something easy you can skip through it. If you want to take a diversion to follow up on something interesting that isn't part of the curriculum, that's also fine.
+
+The upshot of this flexibility is that you have more responsibility as a student. We need to know when you want to go off the normal pathway so we can reorganize groups and make other adjustments. So long as you talk to us, and are prepared to make reasonable compromises, we can make it work for everyone.
 
 We recognise that the community aspects of ScalaBridge are just as important as the technical ones. Our mentors are not only there to help you learn Scala but also to help you find jobs and connect with the wider community, if that is your interest. We hope that friendships with mentors and fellow students will extend outside ScalaBridge and into the rest of your professional life.
 
@@ -23,7 +45,6 @@ The main thing you'll need is a laptop on which we can install Scala and develop
 ## What We Do
 
 Our main activity is small-group teaching. This means learning Scala in a small group consisting of a few students of roughly the same level as yourself and a mentor, who is an experienced developer. There is more to programming than code, and it is certainly more fun to learn together, so we include time for socialising at each session. We roughly follow the school calendar which means we alternate between intensive periods of study and holidays.
-
 
 
 ## If It Doesn't Work Out
