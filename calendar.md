@@ -19,7 +19,7 @@ ScalaBridge London has restarted in 2023, with the following events. We usually 
 - 1 Nov 2023: In-person. *Needs a host*
 - 15 Nov 2023: Online.
 - 29 Nov 2023: In-person. *Needs a host*
-- 13 Dec 2023: Online.
+- 13 Dec 2023: The Guardian
 - 20 Dec 2023: Christmas Party?
 
 
