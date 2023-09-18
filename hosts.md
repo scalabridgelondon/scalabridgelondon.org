@@ -15,9 +15,9 @@ Hosts provide the venues where we hold ScalaBridge London events. Our typical ho
 
 ## What Hosts Receive
 
-Most companies host ScalaBridge because it's a way of giving back to the Scala community in London. A very direct benefit for hosts is potentially hiring from ScalaBridge attendees. This has already happened in our first season.
+Most companies host ScalaBridge because it's a way of giving back to the Scala community in London. A very direct benefit for hosts is hiring ScalaBridge attendees. Attendees range from absolute beginners to very experienced developers, so there are likely to be attendees meeting your hiring needs whatever they may be. Our students are often very keen to get hired.
 
-At the start of a session the host usually gives a brief (max 10 minutes) overview of the kind of work they do in Scala, and any open positions.
+At the start of a session the host usually gives a brief (approximately 10 minutes) overview of the kind of work they do in Scala, during which they can mention open positions.
 
 
 ## Next Steps
