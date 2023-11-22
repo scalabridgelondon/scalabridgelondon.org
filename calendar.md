@@ -26,9 +26,9 @@ ScalaBridge London has restarted in 2023, with the following events. We usually 
 
 ### Summer Term 2024
 
-- 18 Apr 2024: In-person. *Needs a host*
+- 17 Apr 2024: In-person. *Needs a host* (Shifted to avoid clashing with LSUG)
 - 9 May 2024: Online
-- 23 May 2024: In-person. *Needs a host*
+- 23 May 2024: In-person at Morgan Stanley
 - 6 Jun 2024: Online
 - 20 Jun 2024: In-person. *Needs a host*
 - 4 Jul 2024: Online
