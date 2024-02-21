@@ -25,7 +25,7 @@ ScalaBridge London has restarted in 2023, with the following events. We usually 
 - 9 May 2024: Online
 - 23 May 2024: In-person at Morgan Stanley
 - 6 Jun 2024: Online
-- 20 Jun 2024: In-person. *Needs a host*
+- 20 Jun 2024: In-person at Orgvue
 - 4 Jul 2024: Online
 - 18 Jul 2024: In-person. *Needs a host*
 
