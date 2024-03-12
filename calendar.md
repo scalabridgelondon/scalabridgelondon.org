@@ -17,7 +17,7 @@ ScalaBridge London has restarted in 2023, with the following events. We usually 
 - 8 Feb 2024: [Online](https://www.meetup.com/scalabridge-london/events/298954296/)
 - 22 Feb 2024: [Online](https://www.meetup.com/scalabridge-london/events/299215382/)
 - 7 Mar 2024: [Online](https://www.meetup.com/scalabridge-london/events/299591497/)
-- 21 Mar 2024: Online.
+- 21 Mar 2024: [Online](https://www.meetup.com/scalabridge-london/events/299747422/)
 
 ### Summer Term 2024
 
