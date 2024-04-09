@@ -33,7 +33,7 @@ We use [Discord][discord] for online meetings. Download and install the desktop 
 
 ## An Example Project
 
-Download (or fork or clone, if you are familiar with Git) the [Creative Scala template](https://github.com/creativescala/creative-scala-template) to get a simple Scala project (with some reasonably appealing output).
+If you joining the Foundations track (learning to program), download (or fork or clone, if you are familiar with Git) the [Creative Scala template](https://github.com/creativescala/creative-scala-template) to get a simple Scala project (with some reasonably appealing output).
 
 
 [coursier]: https://get-coursier.io/docs/cli-installation
