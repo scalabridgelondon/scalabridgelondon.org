@@ -3,11 +3,11 @@ layout: layouts/default.njk
 title: What We Do
 ---
 
-ScalaBridge London is a meetup where instead of talks we do hands on learning. We meet every two weeks, alternating between in-person and online. Our [calendar][/calendar] has all the dates of our events. 
+ScalaBridge London is a meetup where instead of talks we do hands on learning. We meet every two weeks, alternating between in-person and online. Our [calendar](/calendar) has all the dates of our events. 
 
 We have many online attendees who cannot make our in-person events, so we treat the online and in-person events separately. For our in-person events we ask attendees to commit to attending all the events in a term. This is because we need to do a lot of organization for each term, which gets messed up if people come and go. At in-person events we run two tracks:
 
-1. Foundations, which is aimed at beginner programmers (including those who have never programmed before.) This is taught by experienced teachers and follows our [curriculum][/curriculum]. It will take several terms to get through this material.
+1. Foundations, which is aimed at beginner programmers (including those who have never programmed before.) This is taught by experienced teachers and follows our [curriculum](/curriculum). It will take several terms to get through this material.
 
 2. Advanced, which is for everyone else. We pick a topic each term and spend our time going in depth on that topic.
 
