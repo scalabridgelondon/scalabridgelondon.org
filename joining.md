@@ -14,7 +14,7 @@ So you want to join ScalaBridge? That's great! Here's what you should do to make
 Be aware that all ScalaBridge events are covered by our [code of conduct][coc].
 
 [slack]:https://join.slack.com/t/scalabridge/shared_invite/zt-1wrlq3vue-8E4Liz0ySRJKHKzqZupluQ
-[signup-form]: https://docs.google.com/forms/d/e/1FAIpQLSe3b3MY9I9hRPXUMijVQZP2aQHt09d0shr6uo10ULPlBtxHOg/viewform 
+[signup-form]: https://docs.google.com/forms/d/e/1FAIpQLSejYpydWdSMgb0fRk67WVu-pbs3MVfnKcaleA4-m0LkmgbUxQ/viewform
 [meetup]: https://www.meetup.com/ScalaBridge-London/
 [coc]: https://scalabridge.org/code-of-conduct
 [preparation]: /preparation
