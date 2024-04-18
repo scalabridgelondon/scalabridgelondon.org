@@ -16,7 +16,7 @@ This term's topic for in-person events is [Cats Effect](https://typelevel.org/ca
 - 9 May 2024: [Online](https://www.meetup.com/scalabridge-london/events/300445464/)
 - 23 May 2024: [In-person at Morgan Stanley](https://www.meetup.com/scalabridge-london/events/300445652/)
 - 6 Jun 2024: [Online](https://www.meetup.com/scalabridge-london/events/300445471/)
-- 20 Jun 2024: [In-person at Orgvue](https://www.meetup.com/scalabridge-london/events/300445659/)
+- 20 Jun 2024: [In-person at Orgvue](https://www.meetup.com/scalabridge-london/events/300487682/)
 - 4 Jul 2024: [Online](https://www.meetup.com/scalabridge-london/events/300445486/)
 - 18 Jul 2024: In-person. *Needs a host*
 
