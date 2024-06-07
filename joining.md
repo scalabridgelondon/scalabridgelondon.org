@@ -18,6 +18,7 @@ Be aware that all ScalaBridge events are covered by our [code of conduct][coc].
 [signup-form-online]: https://docs.google.com/forms/d/e/1FAIpQLSdegJgAoSEzu-qhGnU9LFV5qhzzVv3lIXpGKZGXv5pD3z9D5Q/viewform
 
 Please fill this out if you intend to attend online sessions. It will help us greatly with organization.
+
 [meetup]: https://www.meetup.com/ScalaBridge-London/
 [coc]: https://scalabridge.org/code-of-conduct
 [preparation]: /preparation
