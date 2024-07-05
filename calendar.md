@@ -21,9 +21,7 @@ This term's topic for in-person events is [Cats Effect](https://typelevel.org/ca
 - 18 Jul 2024: [In-person at SiriusXM](https://www.meetup.com/scalabridge-london/events/300715772)
 
 <details>
-<summary>
-### Past Events
-</summary>
+<summary><h3>Past Events</h3></summary>
 
 - 16 August 2023: [Pre-season: Q&A and Mentor Training](https://www.meetup.com/scalabridge-london/events/295321990/)
 - 6 Sept 2023: [Online Q&A](https://www.meetup.com/scalabridge-london/events/295736328/)
