@@ -20,8 +20,10 @@ This term's topic for in-person events is [Cats Effect](https://typelevel.org/ca
 - 4 Jul 2024: [Online](https://www.meetup.com/scalabridge-london/events/300445486/)
 - 18 Jul 2024: [In-person at SiriusXM](https://www.meetup.com/scalabridge-london/events/300715772)
 
-
+<details>
+<summary>
 ### Past Events
+</summary>
 
 - 16 August 2023: [Pre-season: Q&A and Mentor Training](https://www.meetup.com/scalabridge-london/events/295321990/)
 - 6 Sept 2023: [Online Q&A](https://www.meetup.com/scalabridge-london/events/295736328/)
@@ -45,15 +47,15 @@ This term's topic for in-person events is [Cats Effect](https://typelevel.org/ca
 - 22 Feb 2024: [Online](https://www.meetup.com/scalabridge-london/events/299215382/)
 - 7 Mar 2024: [Online](https://www.meetup.com/scalabridge-london/events/299591497/)
 - 21 Mar 2024: [Online](https://www.meetup.com/scalabridge-london/events/299747422/)
-
+</details>
 
 ## Upcoming Seasons
 
 <details>
-<summary>Season Six</summary>
+<summary><h3>Season Six</h3></summary>
 Here are the provisional dates for Season Six.
 
-### Autumn 2024
+#### Autumn 2024
 
 - 12 Sep
 - 26 Sep
@@ -64,7 +66,7 @@ Here are the provisional dates for Season Six.
 - 28 Nov
 - 12 Dec
 
-### Spring 2025
+#### Spring 2025
 
 - 9 Jan
 - 23 Jan
@@ -74,7 +76,7 @@ Here are the provisional dates for Season Six.
 - 13 Mar
 - 3 Apr (Moved to avoid Scalar)
 
-### Summer 2025
+#### Summer 2025
 
 - 24 Apr
 - 8 May
