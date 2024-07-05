@@ -89,12 +89,18 @@ Here are the provisional dates for Season Six.
 ## Previous Seasons
 
 
-### Season Four
+<details>
+<summary>
+<h3>Season Four</h3>
+</summary>
 
 Season Four was dead on arrival, due to the pandemic.
+</details>
 
-
-### Seasion Three
+<details>
+<summary>
+<h3>Seasion Three</h3>
+</summary>
 
 In Season Three we went online due to the COVID-19 pandemic, with the following events:
 
@@ -108,9 +114,12 @@ In Season Three we went online due to the COVID-19 pandemic, with the following 
 - [Nov 9th 2020](https://www.meetup.com/ScalaBridge-London/events/qwsfbsybcpbmb/)
 - [Nov 23rd 2020](https://www.meetup.com/ScalaBridge-London/events/qwsfbsybcpbfc/)
 - [Dec 7th 2020](https://www.meetup.com/ScalaBridge-London/events/qwsfbsybcqbkb/)
-
-
-### Season Two
+</details>
+  
+<details>
+<summary>
+<h3>Season Two</h3>
+</summary>
 
 In Season Two we had the following events:
 
@@ -130,9 +139,12 @@ In Season Two we had the following events:
   - Dec 9th: [Elsevier](https://www.meetup.com/ScalaBridge-London/events/266381145/)
   - Dec 14th: [London Scala Community Day](https://www.meetup.com/london-scala/events/266639110/)
   - Jan 21st: [Marks & Spencer](https://www.meetup.com/ScalaBridge-London/events/266409022/)
+</details>
 
-
-### Season One
+<details>
+<summary>
+<h3>Season One</h3>
+</summary>
 
 The first ever ScalaBridge season ran on the following dates and locations:
 
@@ -142,6 +154,7 @@ The first ever ScalaBridge season ran on the following dates and locations:
 * 2 May: ITV
 * 16 May: Depop
 * 30 May: The Guardian
+</details>
 
 [quantexa]: https://www.quantexa.com/
 [season-3-signup]: https://docs.google.com/forms/d/e/1FAIpQLSckueuSBamnwZtYixietp0zsu_jVSIm_-Xe6IJ8xTeX-fKFwg/viewform
