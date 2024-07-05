@@ -68,6 +68,8 @@ $body-font-family:
 // See https://css-tricks.com/two-issues-styling-the-details-element-and-how-to-solve-them/
 details summary {
     cursor: pointer;
+    color: $primary;
+    margin-bottom: 1.5rem;
 }
 details summary > * {
     display: inline;
