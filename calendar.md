@@ -4,45 +4,41 @@ title: Calendar
 ---
 The calendar lists events we're planning, and serves as a record of events we've run.
 
-## Upcoming Seasons
+## Season Six
 
-<details>
-<summary><h3>Season Six</h3></summary>
 Here are the provisional dates for Season Six.
-Vote for topics [here](https://docs.google.com/forms/d/e/1FAIpQLSd5-nLbkW081m6sKpS2UmtaNMWRkdkHVSVaI_QOFArZEDaV1A/viewform).
 
 #### Autumn 2024
 
-- 12 Sep
-- 26 Sep
-- 10 Oct
-- 24 Oct
+- 12 Sep: in-person
+- 26 Sep: online
+- 10 Oct: in-person
+- 24 Oct: online
 
-- 14 Nov
-- 28 Nov
-- 12 Dec
+- 14 Nov: in-person
+- 28 Nov: online
+- 12 Dec: in-person
 
 #### Spring 2025
 
-- 9 Jan
-- 23 Jan
-- 6 Feb
+- 9 Jan: in-person
+- 23 Jan: online
+- 6 Feb: in-person
 
-- 27 Feb
-- 13 Mar
-- 3 Apr (Moved to avoid Scalar)
+- 27 Feb: online
+- 13 Mar: in-person
+- 3 Apr (Moved to avoid Scalar): online
 
 #### Summer 2025
 
-- 24 Apr
-- 8 May
-- 22 May
+- 24 Apr: in-person
+- 8 May: online
+- 22 May: in-person
 
-- 12 Jun
-- 26 Jun
-- 10 Jul
-- 24 Jul
-</details>
+- 12 Jun: online
+- 26 Jun: in-person
+- 10 Jul: online
+- 24 Jul: in-person
 
 
 ## Previous Seasons
