@@ -4,9 +4,55 @@ title: Calendar
 ---
 The calendar lists events we're planning, and serves as a record of events we've run.
 
-## Season Five
+## Upcoming Seasons
 
-ScalaBridge London has restarted in 2023, with the following events. We usually meet on a Thursday.
+<details>
+<summary><h3>Season Six</h3></summary>
+Here are the provisional dates for Season Six.
+Vote for topics [here](https://docs.google.com/forms/d/e/1FAIpQLSd5-nLbkW081m6sKpS2UmtaNMWRkdkHVSVaI_QOFArZEDaV1A/viewform).
+
+#### Autumn 2024
+
+- 12 Sep
+- 26 Sep
+- 10 Oct
+- 24 Oct
+
+- 14 Nov
+- 28 Nov
+- 12 Dec
+
+#### Spring 2025
+
+- 9 Jan
+- 23 Jan
+- 6 Feb
+
+- 27 Feb
+- 13 Mar
+- 3 Apr (Moved to avoid Scalar)
+
+#### Summer 2025
+
+- 24 Apr
+- 8 May
+- 22 May
+
+- 12 Jun
+- 26 Jun
+- 10 Jul
+- 24 Jul
+</details>
+
+
+## Previous Seasons
+
+<details>
+<summary>
+<h3>Season Five</h3>
+</summary>
+
+ScalaBridge London restarted in 2023, with the following events.
 
 ### Summer Term 2024
 
@@ -46,48 +92,6 @@ This term's topic for in-person events is [Cats Effect](https://typelevel.org/ca
 - 7 Mar 2024: [Online](https://www.meetup.com/scalabridge-london/events/299591497/)
 - 21 Mar 2024: [Online](https://www.meetup.com/scalabridge-london/events/299747422/)
 </details>
-
-## Upcoming Seasons
-
-<details>
-<summary><h3>Season Six</h3></summary>
-Here are the provisional dates for Season Six.
-
-#### Autumn 2024
-
-- 12 Sep
-- 26 Sep
-- 10 Oct
-- 24 Oct
-
-- 14 Nov
-- 28 Nov
-- 12 Dec
-
-#### Spring 2025
-
-- 9 Jan
-- 23 Jan
-- 6 Feb
-
-- 27 Feb
-- 13 Mar
-- 3 Apr (Moved to avoid Scalar)
-
-#### Summer 2025
-
-- 24 Apr
-- 8 May
-- 22 May
-
-- 12 Jun
-- 26 Jun
-- 10 Jul
-- 24 Jul
-</details>
-
-## Previous Seasons
-
 
 <details>
 <summary>
