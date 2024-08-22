@@ -50,20 +50,7 @@ Here are the provisional dates for Season Six.
 
 ScalaBridge London restarted in 2023, with the following events.
 
-### Summer Term 2024
-
-This term's topic for in-person events is [Cats Effect](https://typelevel.org/cats-effect/).
-
-- 17 Apr 2024: [In-person at Tray.io](https://www.meetup.com/scalabridge-london/events/299749032/) (Shifted to avoid clashing with LSUG)
-- 9 May 2024: [Online](https://www.meetup.com/scalabridge-london/events/300445464/)
-- 23 May 2024: [In-person at Morgan Stanley](https://www.meetup.com/scalabridge-london/events/300445652/)
-- 6 Jun 2024: [Online](https://www.meetup.com/scalabridge-london/events/300445471/)
-- 20 Jun 2024: [In-person at Orgvue](https://www.meetup.com/scalabridge-london/events/300487682/)
-- 4 Jul 2024: [Online](https://www.meetup.com/scalabridge-london/events/300445486/)
-- 18 Jul 2024: [In-person at SiriusXM](https://www.meetup.com/scalabridge-london/events/300715772)
-
-<details>
-<summary><h3>Past Events</h3></summary>
+#### Warmup
 
 - 16 August 2023: [Pre-season: Q&A and Mentor Training](https://www.meetup.com/scalabridge-london/events/295321990/)
 - 6 Sept 2023: [Online Q&A](https://www.meetup.com/scalabridge-london/events/295736328/)
@@ -87,6 +74,18 @@ This term's topic for in-person events is [Cats Effect](https://typelevel.org/ca
 - 22 Feb 2024: [Online](https://www.meetup.com/scalabridge-london/events/299215382/)
 - 7 Mar 2024: [Online](https://www.meetup.com/scalabridge-london/events/299591497/)
 - 21 Mar 2024: [Online](https://www.meetup.com/scalabridge-london/events/299747422/)
+
+#### Summer Term 2024
+
+This term's topic for in-person events was [Cats Effect](https://typelevel.org/cats-effect/).
+
+- 17 Apr 2024: [In-person at Tray.io](https://www.meetup.com/scalabridge-london/events/299749032/) (Shifted to avoid clashing with LSUG)
+- 9 May 2024: [Online](https://www.meetup.com/scalabridge-london/events/300445464/)
+- 23 May 2024: [In-person at Morgan Stanley](https://www.meetup.com/scalabridge-london/events/300445652/)
+- 6 Jun 2024: [Online](https://www.meetup.com/scalabridge-london/events/300445471/)
+- 20 Jun 2024: [In-person at Orgvue](https://www.meetup.com/scalabridge-london/events/300487682/)
+- 4 Jul 2024: [Online](https://www.meetup.com/scalabridge-london/events/300445486/)
+- 18 Jul 2024: [In-person at SiriusXM](https://www.meetup.com/scalabridge-london/events/300715772)
 </details>
 
 <details>
