@@ -12,10 +12,10 @@ Here are the provisional dates for Season Six.
 
 The topic for advanced students is [streaming data analysis with FS2](https://github.com/creativescala/fs2-tutorial).
 
-- 12 Sep: in-person
-- 26 Sep: online
-- 10 Oct: in-person
-- 24 Oct: online
+- 12 Sep: [In-person at SiriusXM](https://www.meetup.com/scalabridge-london/events/303096250/)
+- 26 Sep: [Online](https://www.meetup.com/scalabridge-london/events/303096270/)
+- 10 Oct: [In-person at Elsevier](https://www.meetup.com/scalabridge-london/events/303096311)
+- 24 Oct: [Online](https://www.meetup.com/scalabridge-london/events/303096348/)
 
 - 14 Nov: in-person
 - 28 Nov: online
