@@ -10,6 +10,8 @@ Here are the provisional dates for Season Six.
 
 #### Autumn 2024
 
+The topic for advanced students is [streaming data analysis with FS2](https://github.com/creativescala/fs2-tutorial).
+
 - 12 Sep: in-person
 - 26 Sep: online
 - 10 Oct: in-person
