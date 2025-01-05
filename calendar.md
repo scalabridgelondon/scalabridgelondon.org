@@ -23,7 +23,7 @@ The topic for advanced students is [streaming data analysis with FS2](https://gi
 
 #### Spring 2025
 
-- 9 Jan: in-person
+- 9 Jan: [In-person at SiriusXM](https://www.meetup.com/scalabridge-london/events/305444175/)
 - 23 Jan: online
 - 6 Feb: in-person
 
