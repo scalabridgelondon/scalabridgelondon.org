@@ -35,10 +35,10 @@ The topic for advanced students is [streaming data analysis with FS2](https://gi
 
 - 24 Apr: [In-person at SiriusXM](https://www.meetup.com/scalabridge-london/events/307315100/)
 - 8 May: [Online](https://www.meetup.com/scalabridge-london/events/307543872/)
-- 22 May: [In-person](https://www.meetup.com/scalabridge-london/events/307544125/)
+- 22 May: [In-person at SiriusXM](https://www.meetup.com/scalabridge-london/events/307544125/)
 
 - 12 Jun: [Online](https://www.meetup.com/scalabridge-london/events/307543891/)
-- 26 Jun: [In-person](https://www.meetup.com/scalabridge-london/events/307544131/)
+- 26 Jun: [In-person at SiriusXM](https://www.meetup.com/scalabridge-london/events/307544131/)
 - 10 Jul: [Online](https://www.meetup.com/scalabridge-london/events/307543896/)
 - 24 Jul: in-person
 
