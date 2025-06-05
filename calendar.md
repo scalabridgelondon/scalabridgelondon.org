@@ -40,7 +40,7 @@ The topic for advanced students is [streaming data analysis with FS2](https://gi
 - 12 Jun: [Online](https://www.meetup.com/scalabridge-london/events/307543891/)
 - 26 Jun: [In-person at SiriusXM](https://www.meetup.com/scalabridge-london/events/307544131/)
 - 10 Jul: [Online](https://www.meetup.com/scalabridge-london/events/307543896/)
-- 24 Jul: in-person
+- 24 Jul: [In-person at Elsevier](https://www.meetup.com/scalabridge-london/events/308303290/)
 
 
 ## Previous Seasons
