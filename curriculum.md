@@ -22,7 +22,7 @@ Our goals are:
 Note that Scala is the vehicle we use to teach programming, but the concepts are broadly applicable to programming in other languages. We expect anyone completing our curriculum would be easily able to pick up other programming languages, and also have an entry into the more theoretical aspects of computer science.
 
 
-## Curriculm Details
+## Curriculum Details
 
 Our curriculum follows [Creative Scala][creative-scala]. At the time of writing, Creative Scala is being reworked. The description below follows the plan for Creative Scala.
 
