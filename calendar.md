@@ -4,9 +4,22 @@ title: Calendar
 ---
 The calendar lists events we're planning, and serves as a record of events we've run.
 
-## Season Six
+## Season Seven
 
-Here are the provisional dates for Season Six.
+#### Autumn 2025
+
+- 8th October in-person
+- 23rd October online
+- 5th November in-person
+- 20th November online
+
+
+## Previous Seasons
+
+<details>
+<summary>
+<h3>Season Six</h3>
+</summary>
 
 #### Autumn 2024
 
@@ -42,8 +55,8 @@ The topic for advanced students is [streaming data analysis with FS2](https://gi
 - 10 Jul: [Online](https://www.meetup.com/scalabridge-london/events/307543896/)
 - 24 Jul: [In-person at Elsevier](https://www.meetup.com/scalabridge-london/events/308303290/)
 
+</details>
 
-## Previous Seasons
 
 <details>
 <summary>
