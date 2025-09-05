@@ -8,7 +8,7 @@ title: How We Do What We Do
 
 ## Community
 
-The [ScalaBridge discord][discord] and the [ScalaBridge slack][slack] are where we hang out online. You'll find us in the `#london` channel of the Slack. (If the signup link has expired please email {% email %} and we'll create a new one.) We also use [meetup] to announce events and to market the group.
+The [ScalaBridge discord][discord] is where we hang out online. (If the signup link has expired please email {% email %} and we'll create a new one.) We also use [meetup] to announce events and to market the group.
 
 
 ## Meetings

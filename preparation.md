@@ -3,12 +3,13 @@ layout: layouts/default.njk
 title: Preparation
 ---
 
-This page describes how you should prepare for ScalaBridge: software to install and things to read.
+
+This page describes how to prepare for ScalaBridge: software to install and things to read. 
 
 
 ## Software
 
-You should attempt to install some software, as described below. This can be complicated process so don't worry if you can't get it to work---we can help you on the day if needed.
+If you are already setup for Scala development, you don't have to install anything extra. If you are new to programming you will probably find this installation compicated. Whatever you manage to complete will save time, but we can help you with the rest on the day.
 
 ## Installing Scala
 
