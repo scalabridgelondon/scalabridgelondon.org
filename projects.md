@@ -68,3 +68,17 @@ This project is very scalable. The simplest useful thing is very simple (e.g. a 
 - Data modelling and SQL
 - Working with user feedback and quick feedback cycles
 </details>
+
+
+<details>
+<summary><h3>AI Bass Player</h3></summary>
+
+An extension to [Sounds of Scala](https://github.com/pauliamgiant/sounds-of-scala). 
+We would give it the beat, tempo and chords and it would create bass lines at varying degrees of complexity.
+Logic already has AI session musicians so theres something to measure against.
+Would be fairly easy to get mocked example and then build out the AI functionality as an extension.
+
+Bonus joke: What do you call a dog that plays bass?
+
+Answer: a sub woofer!
+</details>
