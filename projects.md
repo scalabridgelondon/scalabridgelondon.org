@@ -8,7 +8,7 @@ Most of our members choose to spend their time working on projects. At the start
 
 ## Autumn 2025
 
-Here are the currently proposed projects.
+Here are the proposed projects for Autumn 2025.
 
 <details>
 <summary><h3>Static Site Generator</h3></summary>
@@ -81,4 +81,24 @@ Would be fairly easy to get mocked example and then build out the AI functionali
 Bonus joke: What do you call a dog that plays bass?
 
 Answer: a sub woofer!
+</details>
+
+
+<details>
+<summary><h3>Habit Tracker</h3></summary>
+
+#### Goal
+
+Create a habit tracker that runs locally on-device (that is, requires no server).
+
+Recent browser developments such as [IndexedDB](https://developer.mozilla.org/en-US/docs/Web/API/IndexedDB_API/Using_IndexedDB) and [Origin Private File Systems](https://developer.mozilla.org/en-US/docs/Web/API/File_System_API/Origin_private_file_system) make it possible to create web applications that run entirely on-device, making a backend server optional. This concept is known as [local-first software](https://www.inkandswitch.com/essay/local-first/) and is both technically interesting and philosophically appealing.
+
+This project will explore building a local-first habit tracker using [Scala.js](https://www.scala-js.org/). A basic habit tracker is very simple—completing a habit is just setting a boolean flag—but it has plenty of potential extensions. For example, habits can be allowed to have structure, such as completing a sequence of steps. Or perhaps habits are shared, which brings in CRDTs.
+
+
+#### Learning Goals
+
+- Explore the core technology required by local-first software
+- Learn how to work with web APIs and Scala.js
+- Data modelling and UI implementation
 </details>
