@@ -3,7 +3,7 @@ layout: layouts/default.njk
 title: Projects
 ---
 
-Most of our members choose to spend their time working on projects. At the start of each term brainstorm a set of projects; join in the discussion in Discord to get your ideas on the list.
+Most of our members choose to spend their time working on projects. At the start of each term we brainstorm a set of projects. Choices are listed below by term. Join in the discussion on Discord to get your ideas on the list.
 
 
 ## Autumn 2025

@@ -5,9 +5,11 @@ title: Curriculum
 
 There are two options for learning via ScalaBridge:
 
-1. For who we imagine will be the typical ScalaBridge student, someone completely new to programming to a few years into professional programming, we have developed the curriculum described below.
+1. For someone new to programming we have developed the curriculum described below.
 
-2. For more experienced developers, with a clear idea of what they want to learn, we can work together to come up with material that meets your goals. Just beaware that creating training material is a lot of work, and our capacity to do this is limited. If you want to go this route, please email us to discuss.
+2. More experienced developers work on [projects](/projects/).
+
+, with a clear idea of what they want to learn, we can work together to come up with material that meets your goals. Just beaware that creating training material is a lot of work, and our capacity to do this is limited. If you want to go this route, please email us to discuss.
 
 
 ## Curriculum Goals
