@@ -3,7 +3,7 @@ layout: layouts/default.njk
 title: Projects
 ---
 
-Most of our members choose to spend their time working on projects. At the start of each term we brainstorm a set of projects. Choices are listed below by term. Join in the discussion on Discord to get your ideas on the list.
+Most of our members choose to spend their time working on projects. At the start of each term we brainstorm a set of projects, which are listed below by term. Join in the discussion on [Discord][discord] to get your ideas on the list. If you're new to programming, check out our [curriculum](/curriculum) instead.
 
 
 ## Autumn 2025
@@ -102,3 +102,5 @@ This project will explore building a local-first habit tracker using [Scala.js](
 - Learn how to work with web APIs and Scala.js
 - Data modelling and UI implementation
 </details>
+
+[discord]: https://discord.gg/SKKZEb2EPz
