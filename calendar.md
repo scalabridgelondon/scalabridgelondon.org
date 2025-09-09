@@ -8,7 +8,7 @@ The calendar lists events we're planning, and serves as a record of events we've
 
 #### Autumn 2025
 
-- 8th October in-person
+- 8th October:  [In-person at SiriusXM](https://www.meetup.com/scalabridge-london/events/310955884/)
 - 23rd October online
 - 5th November in-person
 - 20th November online
