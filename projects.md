@@ -103,4 +103,33 @@ This project will explore building a local-first habit tracker using [Scala.js](
 - Data modelling and UI implementation
 </details>
 
+
+<details>
+<summary><h3>Functional Checkout System & Pricing Engine</h3></summary>
+
+#### Goal
+
+Create a robust, type-safe checkout system that can calculate the total price of a basket of items, applying complex pricing rules and promotions (e.g., "buy one get one free", bulk discounts). The system will be built with a functional programming core and expose HTTP APIs for integration.
+
+This project is more than a simple checkout calculator; it's about modelling a real-world domain with immutable data, composing business rules, and handling the effects of external calls. It could serve as the backend for a simple e-commerce store or a point-of-sale (POS) system.
+
+A functional checkout system separates the pure business logic (calculating totals) from the impure "effects" (reading from a database, charging a card, logging). It typically consists of:
+
+1.  *A Core Domain Model*: Defining products, baskets, and pricing rules using algebraic data types (ADTs) and immutable data structures.
+2.  *A Pricing Rule Engine*: A composable set of functions and rules that can be applied to a basket to calculate discounts and the final total. This is the pure heart of the system.
+3.  *An API Layer*: Handles the "outside world", reading product catalogue from a database, receiving HTTP requests, processing payments—and feeds the necessary data into the pure core.
+
+
+#### Learning Goals
+
+1.  *Functional Domain Modelling*: Use case classes, sealed traits, and enumerations to model Product, Basket, PricingRule, and Offer in a way that makes invalid states unpresentable.
+2.  *Pure Functional Logic*: Implement the pricing engine using pure functions (no side effects). This makes the logic incredibly easy to test and reason about.
+3.  *Composition & Algebra*: Learn to design small, composable functions (e.g., `tenPercentOff`, `buyOneGetOneFree` etc...) and combine them into more complex pricing strategies.
+4.  *Handling Effects*: Use a functional effect system like Cats Effect or ZIO to manage side effects (database calls, HTTP). Learn about IO, Resource, and concurrency.
+5.  *Building HTTP APIs*: Create a RESTful JSON API using a library like http4s or Akka HTTP to expose endpoints for POST /checkout and GET /products.
+6.  *Persistence*: Use doobie (for JDBC) or Quill to read product information and pricing rules from a simple SQL database (e.g., PostgreSQL, H2).
+7.  *Testing*: Write property-based tests with ScalaCheck to verify your pricing rules always hold certain properties (e.g., "total can never be negative") and unit tests for specific scenarios.
+
+</details>
+
 [discord]: https://discord.gg/SKKZEb2EPz
