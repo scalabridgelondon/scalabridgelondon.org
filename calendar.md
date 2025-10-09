@@ -6,12 +6,14 @@ The calendar lists events we're planning, and serves as a record of events we've
 
 ## Season Seven
 
+We meet in-person on the Wednesday of the first week of the month, and online on the third Thursday of the month. (We don't meet online on Wednesday to avoid clashing with LSUG events held on Wednesday of that week.)
+
 #### Autumn 2025
 
 - 8th October:   [In-person at SiriusXM](https://www.meetup.com/scalabridge-london/events/310955884/)
-- 22nd October:  [Online](https://www.meetup.com/scalabridge-london/events/311457990/)
+- 23rd October:  [Online](https://www.meetup.com/scalabridge-london/events/311457990/)
 - 5th November   [In-person at Depop](https://www.meetup.com/scalabridge-london/events/311458059/)
-- 19th November: [Online](https://www.meetup.com/scalabridge-london/events/311458021/)
+- 20th November: [Online](https://www.meetup.com/scalabridge-london/events/311458021/)
 - 3rd December:  [In-person at Elsevier](https://www.meetup.com/scalabridge-london/events/311458152/)
 
 
