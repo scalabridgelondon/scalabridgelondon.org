@@ -8,10 +8,11 @@ The calendar lists events we're planning, and serves as a record of events we've
 
 #### Autumn 2025
 
-- 8th October:  [In-person at SiriusXM](https://www.meetup.com/scalabridge-london/events/310955884/)
-- 23rd October online
-- 5th November in-person
-- 20th November online
+- 8th October:   [In-person at SiriusXM](https://www.meetup.com/scalabridge-london/events/310955884/)
+- 22nd October:  [Online](https://www.meetup.com/scalabridge-london/events/311457990/)
+- 5th November   [In-person at Depop](https://www.meetup.com/scalabridge-london/events/311458059/)
+- 19th November: [Online](https://www.meetup.com/scalabridge-london/events/311458021/)
+- 3rd December:  [In-person at Elsevier](https://www.meetup.com/scalabridge-london/events/311458152/)
 
 
 ## Previous Seasons
