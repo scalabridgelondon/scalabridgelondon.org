@@ -15,6 +15,7 @@ We meet in-person on the Wednesday of the first week of the month, and online on
 - 5th November   [In-person at Depop](https://www.meetup.com/scalabridge-london/events/311458059/)
 - 20th November: [Online](https://www.meetup.com/scalabridge-london/events/311458021/)
 - 3rd December:  [In-person at Elsevier](https://www.meetup.com/scalabridge-london/events/311458152/)
+- 12th December: [Christmas Social at the Science Museum!](https://www.meetup.com/scalabridge-london/events/312092986/)
 
 
 ## Previous Seasons
